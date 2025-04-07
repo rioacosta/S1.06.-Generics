@@ -29,7 +29,7 @@ cd S1.06.-Generics
 
 ▶️ Ejecución
 
-Configura la base de datos a config/*database.js. Ejecuta el servidor: npm start
+Instala las dependencias en tu IDE.
 
 🌐 Despliegue
 
