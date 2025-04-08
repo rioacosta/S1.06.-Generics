@@ -24,7 +24,7 @@ IDE eclipse o intellj GitHub
 
 🛠️ Instalación
 
-Clona este repositorio: git clone 
+Clona este repositorio: git clone https://github.com/rioacosta/S1.06.-Generics
 cd S1.06.-Generics
 
 ▶️ Ejecución
