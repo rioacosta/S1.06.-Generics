@@ -16,7 +16,9 @@ Ejercicio 1 Modifica el ejercicio anterior de manera que uno de los argumentos d
 
 Ejercicio 2 Modifica el apartado anterior de manera que los argumentos del método genérico sean una lista de argumentos de variable indefinida.
 
-💻 Tecnologías Utilizadas Java version 24 Git Terminal
+💻 Tecnologías Utilizadas
+
+Java version 24 Git Terminal
 
 📋 Requisitos
 
